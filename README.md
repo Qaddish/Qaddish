@@ -4,6 +4,9 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Qaddish&layout=compact&theme=radical)
 
 
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/miguel_qaddish)
+[![Instagram](https://img.shields.io/badge/-Instagram-pink?style=for-the-badge&logo=instagram)](https://instagram.com/miguel_qaddish)
+
 
 
 
