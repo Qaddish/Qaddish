@@ -78,31 +78,11 @@
 
 ## 🌐 Connect with me  
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/miguel_qaddish)  
-[![Instagram](https://img.shields.io/badge/-Instagram-pink?style=for-the-badge&logo=instagram)](https://instagram.com/miguel_qaddish)  
-[![Telegram](https://img.shields.io/badge/-Telegram-blue?style=for-the-badge&logo=telegram)](https://t.me/miguel_qaddish)    
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/miguel_qaddish) Miguel Qaddish 
+[![Instagram](https://img.shields.io/badge/-Instagram-pink?style=for-the-badge&logo=instagram)](https://instagram.com/miguel_qaddish) miguel_qaddish 
+[![Telegram](https://img.shields.io/badge/-Telegram-blue?style=for-the-badge&logo=telegram)](https://t.me/miguel_qaddish) miguel_qaddish
 
 ---
-
-## 🤝 Contributions  
-
-💡 I'm always on the lookout for interesting projects to contribute to.  
-If you have something in mind, let’s connect and build something amazing together!  
-
----
-
-## 🙌 Acknowledgments  
-
-- 🙏 Thanks for visiting my GitHub profile!  
-- 🎯 Feel free to explore my projects and get in touch.  
-- 💻 Happy coding!  
-
-
-
-
-
-
-
 
 
 
