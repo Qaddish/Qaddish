@@ -19,7 +19,7 @@
 
 ## 📊 GitHub Stats  
 
-<p align="center">
+<p align="right">
   <img src="https://github-readme-stats.vercel.app/api?username=Qaddish&show_icons=true&theme=radical" height="165"/>
   <h1> </h1>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Qaddish&layout=compact&theme=radical" height="165"/>
