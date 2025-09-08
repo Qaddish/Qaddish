@@ -38,7 +38,7 @@
   <img src="https://img.shields.io/badge/-CSS3-333?style=for-the-badge&logo=css3"/>
   <img src="https://img.shields.io/badge/-Linux-333?style=for-the-badge&logo=linux"/>
   <img src="https://img.shields.io/badge/-Git-333?style=for-the-badge&logo=git"/>
-  <img src="https://img.shields.io/badge/-Docker-333?style=for-the-badge&logo=sql"/>
+  <img src="https://img.shields.io/badge/-SQL-333?style=for-the-badge&logo=sql"/>
 </p>
 
 ---
