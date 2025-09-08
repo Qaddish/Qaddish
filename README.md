@@ -1,9 +1,5 @@
 <h1 align="center"> Miguel Qaddish 🧑‍💻 </h1>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Qaddish&color=blue" alt="Profile views"/>
-</p>
-
 ---
 
 ## 👨‍💻 About Me  
