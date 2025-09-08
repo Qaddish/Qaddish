@@ -27,19 +27,21 @@
 
 ---
 
-## 🛠️ Technologies & Tools  
+## ⚡ Skills  
 
-<p>
-  <img src="https://img.shields.io/badge/-Python-333?style=for-the-badge&logo=python"/>
-  <img src="https://img.shields.io/badge/-JavaScript-333?style=for-the-badge&logo=javascript"/>
-  <img src="https://img.shields.io/badge/-Java-333?style=for-the-badge&logo=java"/>
-  <img src="https://img.shields.io/badge/-C++-333?style=for-the-badge&logo=cplusplus"/>
-  <img src="https://img.shields.io/badge/-HTML5-333?style=for-the-badge&logo=html5"/>
-  <img src="https://img.shields.io/badge/-CSS3-333?style=for-the-badge&logo=css3"/>
-  <img src="https://img.shields.io/badge/-Linux-333?style=for-the-badge&logo=linux"/>
-  <img src="https://img.shields.io/badge/-Git-333?style=for-the-badge&logo=git"/>
-  <img src="https://img.shields.io/badge/-SQL-333?style=for-the-badge&logo=sql"/>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50"/>
 </p>
+
 
 ---
 
