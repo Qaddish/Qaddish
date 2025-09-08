@@ -1,7 +1,7 @@
 <h1 align="center"> Miguel Qaddish 🧑‍💻 </h1>
 
 ---
-![Demonstração]([https://media.giphy.com/media/abc123/giphy.gif](https://static.wixstatic.com/media/9adcc5_38347e344ecd41d8822e6576c99e55e3~mv2.gif))
+![Demonstração](https://media.giphy.com/media/abc123/giphy.gif)
 
 ---
 
