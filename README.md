@@ -66,6 +66,10 @@
   <a href="https://www.php.net/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50"/>
   </a>
+  <a href="https://soliditylang.org/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" width="50"/>
+</a>
+
 </p>
 
 
