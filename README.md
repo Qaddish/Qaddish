@@ -75,7 +75,11 @@
 ## 🌐 Connect with me  
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/miguel_qaddish) Miguel Qaddish 
+  <h1> </h1>
+  
 [![Instagram](https://img.shields.io/badge/-Instagram-pink?style=for-the-badge&logo=instagram)](https://instagram.com/miguel_qaddish) miguel_qaddish 
+  <h1> </h1>
+  
 [![Telegram](https://img.shields.io/badge/-Telegram-blue?style=for-the-badge&logo=telegram)](https://t.me/miguel_qaddish) miguel_qaddish
 
 ---
