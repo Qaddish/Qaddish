@@ -1,6 +1,8 @@
 <h1 align="center"> Miguel Qaddish 🧑‍💻 </h1>
 
 ---
+<img src=https://static.wixstatic.com/media/9adcc5_38347e344ecd41d8822e6576c99e55e3~mv2.gif></img>
+---
 
 ## 👨‍💻 About Me  
 - 📍 Location: São João del Rei, Minas Gerais  
