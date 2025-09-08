@@ -1,10 +1,6 @@
 <h1 align="center"> Miguel Qaddish 🧑‍💻 </h1>
 
 <p align="center">
-  <img src="https://static.wixstatic.com/media/9adcc5_38347e344ecd41d8822e6576c99e55e3~mv2.gif" alt="Banner" width="700"/>
-</p>
-
-<p align="center">
   <img src="https://komarev.com/ghpvc/?username=Qaddish&color=blue" alt="Profile views"/>
 </p>
 
