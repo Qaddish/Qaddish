@@ -57,8 +57,7 @@
 
 </p>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Qaddish&layout=compact&theme=radical" height="165"/>
-  ## 📊 Linguagens mais usadas  
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Qaddish&layout=compact&theme=radical)
 
